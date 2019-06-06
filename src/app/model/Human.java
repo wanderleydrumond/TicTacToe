@@ -10,7 +10,7 @@ public class Human extends Player{
     public Human(int player){
         super(player);
         this.player = player;
-        System.out.println("Player 'Humano' generated!");
+        System.out.println("Player 'Human' generated!");
     }
 
     @Override
