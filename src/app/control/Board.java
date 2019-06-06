@@ -1,4 +1,4 @@
-package control;
+package app.control;
 
 public class Board {
     private int[][] board= new int[3][3];

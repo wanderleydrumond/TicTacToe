@@ -1,9 +1,9 @@
-package view;
+package app.view;
 
-import control.Board;
-import model.Computer;
-import model.Human;
-import model.Player;
+import app.control.Board;
+import app.model.Computer;
+import app.model.Human;
+import app.model.Player;
 
 import java.util.Scanner;
 

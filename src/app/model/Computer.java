@@ -1,6 +1,6 @@
-package model;
+package app.model;
 
-import control.Board;
+import app.control.Board;
 
 public class Computer extends Player{
 

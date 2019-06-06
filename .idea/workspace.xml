@@ -1,25 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="57de70b1-729c-4d96-bfe6-1899237479de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TicTacToe.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TicTacToe/control/Board.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TicTacToe/control/TicTacToe.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TicTacToe/model/Computer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TicTacToe/model/Human.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TicTacToe/model/Player.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TicTacToe/view/Game.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/control/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/control/TicTacToe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/view/Game.java" afterDir="false" />
+    <list default="true" id="57de70b1-729c-4d96-bfe6-1899237479de" name="Default Changelist" comment="Primeiro commit">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__Arquillian_JUnit_Release.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/control/BoardTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/control/TicTacToeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/model/ComputerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/model/HumanTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/model/PlayerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/view/GameTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicTacToe.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TicTacToe.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TicTacToe/control/Board.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TicTacToe/control/TicTacToe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TicTacToe/model/Computer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TicTacToe/model/Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TicTacToe/model/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TicTacToe/view/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/control/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/control/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/control/TicTacToe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/control/TicTacToe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/model/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/model/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/model/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/view/Game.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,86 +37,26 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/model/Player.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-              <folding>
-                <element signature="e#151#152#0" expanded="true" />
-                <element signature="e#189#190#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/view/Game.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="121">
-              <caret line="60" column="42" selection-start-line="60" selection-start-column="42" selection-end-line="60" selection-end-column="42" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/model/Human.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#play#0;class#Human#0" />
-                <element signature="method#Tentativa#0;class#Human#0" />
-                <element signature="e#469#1240#1" />
-                <element signature="e#485#719#1" />
-                <element signature="e#775#1010#1" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/model/Computer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
-              <folding>
-                <element signature="method#Tentativa#0;class#Computador#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/control/Board.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-              <folding>
-                <element signature="e#100#101#0" expanded="true" />
-                <element signature="e#128#129#0" expanded="true" />
-                <element signature="e#964#965#0" expanded="true" />
-                <element signature="e#1016#1017#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/control/TicTacToe.java">
+        <entry file="file://$PROJECT_DIR$/src/app/control/TicTacToe.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
               <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="67" selection-start-line="4" selection-start-column="62" selection-end-line="4" selection-end-column="67" />
             </state>
           </provider>
         </entry>
@@ -122,6 +67,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Arquillian JUnit Test Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -155,6 +102,19 @@
         <option value="$PROJECT_DIR$/src/model/Computer.java" />
         <option value="$PROJECT_DIR$/src/model/Human.java" />
         <option value="$PROJECT_DIR$/src/control/Board.java" />
+        <option value="$PROJECT_DIR$/src/control/BoardTest.java" />
+        <option value="$PROJECT_DIR$/src/tests/BoardTest.java" />
+        <option value="$PROJECT_DIR$/src/tests/control/BoardTest.java" />
+        <option value="$PROJECT_DIR$/src/app/control/TicTacToeTest.java" />
+        <option value="$PROJECT_DIR$/src/tests/control/TicTacToeTest.java" />
+        <option value="$PROJECT_DIR$/src/app/model/ComputerTest.java" />
+        <option value="$PROJECT_DIR$/src/tests/model/ComputerTest.java" />
+        <option value="$PROJECT_DIR$/src/app/model/HumanTest.java" />
+        <option value="$PROJECT_DIR$/src/app/model/PlayerTest.java" />
+        <option value="$PROJECT_DIR$/src/tests/model/PlayerTest.java" />
+        <option value="$PROJECT_DIR$/src/app/view/GameTest.java" />
+        <option value="$PROJECT_DIR$/src/tests/view/GameTest.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -170,6 +130,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -181,33 +142,32 @@
             <path>
               <item name="TicTacToe" type="b2602c69:ProjectViewProjectNode" />
               <item name="TicTacToe" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TicTacToe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TicTacToe" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="control" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TicTacToe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TicTacToe" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -218,6 +178,15 @@
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="app.view" />
+      <recent name="app.model" />
+      <recent name="app.control" />
+      <recent name="control" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="control" />
     </key>
@@ -234,13 +203,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TicTacToe">
     <configuration name="TicTacToe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="control.TicTacToe" />
+      <option name="MAIN_CLASS_NAME" value="app.control.TicTacToe" />
       <module name="TicTacToe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="control.*" />
+          <option name="PATTERN" value="tests.control.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -248,9 +217,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BoardTest.cleanBoard" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TicTacToe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.control.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.control" />
+      <option name="MAIN_CLASS_NAME" value="tests.control.BoardTest" />
+      <option name="METHOD_NAME" value="cleanBoard" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.TicTacToe" />
+        <item itemvalue="JUnit.BoardTest.cleanBoard" />
       </list>
     </recent_temporary>
   </component>
@@ -264,15 +250,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1558687897371</updated>
-      <workItem from="1558687901463" duration="6689000" />
+      <workItem from="1558687901463" duration="9570000" />
+      <workItem from="1559848857905" duration="1363000" />
     </task>
+    <task id="LOCAL-00001" summary="Primeiro commit">
+      <created>1558694659654</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1558694659654</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="BoardTest_cleanBoard - 2019.05.24 at 12h 34m 07s.xml">
+      <configuration name="BoardTest.cleanBoard" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BoardTest_cleanBoard - 2019.06.06 at 20h 38m 32s.xml">
+      <configuration name="BoardTest.cleanBoard" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6689000" />
+    <option name="totallyTimeSpent" value="10933000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Capture Tool" order="1" />
@@ -280,17 +284,17 @@
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Learn" order="4" />
       <window_info id="Designer" order="5" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.24962178" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.25340393" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50075644" side_tool="true" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50075644" side_tool="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Database Changes" order="2" />
       <window_info anchor="bottom" id="Messages" order="3" weight="0.3289689" />
-      <window_info anchor="bottom" id="Version Control" order="4" sideWeight="0.49924356" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Version Control" order="4" sideWeight="0.49924356" weight="0.3289689" />
       <window_info anchor="bottom" id="Terminal" order="5" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
-      <window_info anchor="bottom" id="Run" order="8" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="8" sideWeight="0.49924356" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
@@ -314,52 +318,29 @@
     <option name="LAST_COMMIT_MESSAGE" value="Primeiro commit" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/control/TicTacToe.java">
+    <entry file="file://$PROJECT_DIR$/src/tests/control/TicTacToeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        <state relative-caret-position="272">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/Human.java">
+    <entry file="file://$PROJECT_DIR$/src/tests/control/BoardTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#play#0;class#Human#0" />
-            <element signature="method#Tentativa#0;class#Human#0" />
-            <element signature="e#469#1240#1" />
-            <element signature="e#485#719#1" />
-            <element signature="e#775#1010#1" />
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/Game.java">
+    <entry file="file://$PROJECT_DIR$/src/app/control/Board.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="60" column="42" selection-start-line="60" selection-start-column="42" selection-end-line="60" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/Computer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
-          <folding>
-            <element signature="method#Tentativa#0;class#Computador#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/control/Board.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        <state relative-caret-position="119">
+          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
           <folding>
             <element signature="e#100#101#0" expanded="true" />
             <element signature="e#128#129#0" expanded="true" />
@@ -369,19 +350,88 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/Player.java">
+    <entry file="file://$PROJECT_DIR$/src/tests/model/ComputerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/model/Computer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/model/Human.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
           <folding>
-            <element signature="e#151#152#0" expanded="true" />
-            <element signature="e#189#190#0" expanded="true" />
+            <element signature="method#play#0;class#Human#0" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/tests/model/HumanTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/model/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/view/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="60" column="42" selection-start-line="60" selection-start-column="42" selection-end-line="60" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tests/view/GameTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tests/model/PlayerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/control/TicTacToe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="67" selection-start-line="4" selection-start-column="62" selection-end-line="4" selection-end-column="67" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">

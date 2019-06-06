@@ -1,6 +1,6 @@
-package control;
+package app.control;
 
-import view.Game;
+import app.view.Game;
 
 public class TicTacToe {
     public static void main(String[] args) {
