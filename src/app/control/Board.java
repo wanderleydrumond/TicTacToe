@@ -4,10 +4,10 @@ public class Board {
     private int[][] board= new int[3][3];
 
     public Board(){
-        cleanBoard();
+        emptyBoard();
     }
 
-    public void cleanBoard(){
+    public void emptyBoard(){
         for(int row=0 ; row<3 ; row++)
             for(int column=0 ; column<3 ; column++)
                 board[row][column]=0;

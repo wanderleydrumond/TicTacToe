@@ -9,25 +9,11 @@ import static org.junit.Assert.*;
 public class BoardTest {
 
     @Test
-    public void isBoardEmpty() {
-//        Assert.assertTrue("Método vazio",true);
-        System.out.println("Board is clean");
-        Board board = new Board();
-        int row = 0, column =0;
-        boolean response = false;
-        boolean result = board.emptyBoard();
-    }
-
-    @Test
-    public void showBoard() {
-    }
-
-    @Test
     public void getPosition() {
-    }
-
-    @Test
-    public void setPosition() {
+        Board board = new Board();
+        System.out.println("Position is captured");
+        int[] attempt = new int[0];
+        Assert.assertEquals(true, board.getPosition(new int[]{attempt[1]}));
     }
 
     @Test
@@ -43,6 +29,14 @@ public class BoardTest {
     }
 
     @Test
-    public void fullBoard() {
+    public void isBoardNotFull() {
+        Board board = new Board();
+        System.out.println("Board is not full");
+        /*int row = 0, column = 0;
+        boolean response = true;
+        boolean result = board.fullBoard();
+        assertEquals(response, result);
+        fail("It is not working");*/
+        assertEquals(false, board.fullBoard());
     }
 }
